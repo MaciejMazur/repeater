@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Repeater</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="learning_topics">Learning Topics</string>
+    <string name="status">Status</string>
+    <string name="last_repetition_">"Last repetition :  "</string>
+    <string name="correct_answers">Correct answers</string>
+    <string name="title">Title</string>
+    <string name="correct_answers_">"Correct answers :  "</string>
+    <string name="title_">"Title :  "</string>
+
+</resources>
